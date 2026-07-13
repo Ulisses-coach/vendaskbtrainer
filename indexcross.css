@@ -3,6 +3,19 @@ body {
     background-color:darkgray;
 }
 
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb;
+    text-align: center;
+}
+.data-completa {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
 .box1 {
     width: 100%;
     background-color: white;
